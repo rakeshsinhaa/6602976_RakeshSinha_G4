@@ -39,27 +39,3 @@ This project presents an in-depth **data analytics** case study on **used cars**
 * Created **visualizations** using both Python and Excel
 * Built a **dashboard in Excel** for easy data interpretation
 * Solved analytical questions related to pricing, brand trends, mileage, fuel type, etc.
-
----
-
-## 🎯 Project Objectives
-
-* Identify factors affecting car prices
-* Compare popular car brands and models
-* Visualize mileage vs. price and other correlations
-* Use dashboards for interactive insight delivery
-
----
-
-## 🧠 Learning Outcome
-
-This project demonstrates practical skills in:
-
-* Data wrangling and visualization
-* Insight generation from raw datasets
-* Dashboard creation for business users
-* Applying Python and Excel in tandem for data analysis
-
----
-
-Let me know if you'd like to add GitHub badges, a preview of your Excel dashboard (you can upload a screenshot), or a section for future improvements!
