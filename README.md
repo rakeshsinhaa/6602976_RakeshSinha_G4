@@ -3,9 +3,7 @@ This project focuses on Data Analytics of used cars using Excel and Python. It i
 
 🧰 Tools & Technologies:
 
-Excel:
-
-Data cleaning and transformation
+Excel: Data cleaning and transformation
 
 Pivot tables and charts
 
